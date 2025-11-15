@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Rick and Morty",
+    "slug": "rick-morty",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
+
